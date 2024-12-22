@@ -1,0 +1,15 @@
+[
+    {
+      "qrCode": "ABC123",
+      "name": "Resistor 10k Ohm",
+      "quantity": 100,
+      "location": "Bin A1"
+    },
+    {
+      "qrCode": "DEF456",
+      "name": "Capacitor 100uF",
+      "quantity": 50,
+      "location": "Bin B3"
+    }
+  ]
+  

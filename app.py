@@ -1,10 +1,12 @@
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
 
+
 app = Flask(__name__)
 
 # Define the Excel file
 FILE_NAME = 'Components.xlsx'
+
 
 # Helper functions to load and save data
 def load_data():
